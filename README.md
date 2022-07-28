@@ -1,5 +1,4 @@
-# BICYCLE-MANUFACTURING-COMPANY-DATA-ANALYSIS-BEE-CYCLE-WITH-SQL-POSTGRESQL---SQL-Case-Study-DB-ins
-SQL
+# BICYCLE MANUFACTURING COMPANY DATA ANALYSIS WITH SQL
 
 •	Explore and analyse the data using Google Colab and SQL. </br>
 •	Using PostgreSQL relational database management system (RDBMS).</br> 
